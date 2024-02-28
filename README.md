@@ -10,11 +10,11 @@
 
 # Checklist
 - Level 0
-  - week1
-  - week2
-  - week3
+  - [x](week1)
+  - [x](week2)
+  - [x](week3)
 - level 1
-  - week1
-  - week2
-  - week3
+  - [x](week1)
+  - [ ](week2)
+  - [ ](week3)
   
