@@ -1,8 +1,20 @@
-# Steps and commands
+# PHP Progress
+> * Just take your time *
 
-## to establish a GitHub repository for publishing this file
+# LEVELS
+| Level | Week | Start |
+| --- | --- | --- |
+| 0 | 3 | Jan |
+| 1 | 8 | Feb |
+| 2 | 7 | Apr |
 
-- initialize a new Git repository using init command
-- Track the file README.md using add command
-- commit the changes using commit command
-- push the changes using push command
+#Checklist
+- Level 0
+  - week1
+  - week2
+  - week3
+- level 1
+  - week1
+  - week2
+  - week3
+  
