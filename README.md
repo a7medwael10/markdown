@@ -1,5 +1,5 @@
 # PHP Progress
-> * Just take your time *
+> *Just take your time*
 
 # LEVELS
 | Level | Week | Start |
